@@ -1,0 +1,13 @@
+{
+  "name": "kata-potter",
+  "version": "1.0.0",
+  "description": "Kata potter",
+  "scripts": {
+    "test": "./node_modules/mocha/bin/mocha",
+    "test:watch": "clear;./node_modules/mocha/bin/mocha --watch"
+  },
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^9.1.2"
+  }
+}
